@@ -4,15 +4,15 @@ Gracias por tu interés en unirte a Gana Energía. Esta prueba busca ver cómo t
 en un caso realista: implementar una pantalla a partir de un diseño de Figma,
 consumiendo datos de una API.
 
-**Tiempo de dedicación**: no debería llevarte más de una jornada de trabajo. No
-valoramos que le dediques más tiempo del razonable — preferimos algo bien resuelto
-y acotado a algo extenso pero incompleto.
+**Tiempo de dedicación**: no debería llevarte más de 4-5 horas. No valoramos
+que le dediques más tiempo del razonable — preferimos algo bien resuelto y
+acotado a algo extenso pero incompleto.
 
-**Plazo de entrega**: tienes hasta el miércoles 22 de julio a las 23:59h para
+**Plazo de entrega**: tienes hasta el martes 21 de julio a las 23:59h para
 enviarnos tu solución.
 
-**Después de la prueba**: si todo va bien, te invitaremos a nuestra oficina en
-Valencia para una presentación breve (15-20 min) donde nos enseñes tu solución
+**Después de la prueba**: Te invitaremos a nuestra oficina en Valencia
+para una presentación breve (15-20 min) donde nos enseñes tu solución
 en directo y nos cuentes las decisiones que tomaste.
 
 ## Contexto
