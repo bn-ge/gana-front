@@ -23,8 +23,7 @@ sus distintos contratos/suministros.
 
 ## Diseño
 
-Encontrarás el diseño de referencia en este Figma: 
-https://www.figma.com/design/dL9a5tdCWmD12wORt7PNng/%C3%81rea-cliente?node-id=1-1659&t=o1pR6nxlfYX31d8G-0
+Encontrarás el diseño de referencia en el enlace de Figma del correo.
 
 Queremos que el resultado final sea lo más fiel posible al diseño: espaciados,
 tipografías, colores y estados (incluyendo hover si el diseño lo contempla).
