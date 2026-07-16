@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "contract_id": 1,
+    "mes": "ENE",
+    "anio": "24",
+    "mes_num": 1,
+    "anio_completo": 2024,
+    "kwh": 104.51,
+    "eur": 22.3
+  },
+  {
+    "id": 2,
+    "contract_id": 1,
+    "mes": "FEB",
+    "anio": "24",
+    "mes_num": 2,
+    "anio_completo": 2024,
+    "kwh": 88.69,
+    "eur": 25.38
+  },
+  {
+    "id": 3,
+    "contract_id": 1,
+    "mes": "MAR",
+    "anio": "24",
+    "mes_num": 3,
+    "anio_completo": 2024,
+    "kwh": 98.91,
+    "eur": 22.44
+  },
+  {
+    "id": 4,
+    "contract_id": 1,
+    "mes": "ABR",
+    "anio": "24",
+    "mes_num": 4,
+    "anio_completo": 2024,
+    "kwh": 72.38,
+    "eur": 18.78
+  },
+  {
+    "id": 5,
+    "contract_id": 1,
+    "mes": "MAY",
+    "anio": "24",
+    "mes_num": 5,
+    "anio_completo": 2024,
+    "kwh": 66.47,
+    "eur": 18.34
+  },
+  {
+    "id": 6,
+    "contract_id": 1,
+    "mes": "JUN",
+    "anio": "24",
+    "mes_num": 6,
+    "anio_completo": 2024,
+    "kwh": 73.08,
+    "eur": 19.33
+  },
+  {
+    "id": 7,
+    "contract_id": 1,
+    "mes": "JUL",
+    "anio": "24",
+    "mes_num": 7,
+    "anio_completo": 2024,
+    "kwh": 85.26,
+    "eur": 21.56
+  },
+  {
+    "id": 8,
+    "contract_id": 1,
+    "mes": "AGO",
+    "anio": "24",
+    "mes_num": 8,
+    "anio_completo": 2024,
+    "kwh": 88.42,
+    "eur": 20.61
+  },
+  {
+    "id": 9,
+    "contract_id": 1,
+    "mes": "SEP",
+    "anio": "24",
+    "mes_num": 9,
+    "anio_completo": 2024,
+    "kwh": 100.47,
+    "eur": 22.57
+  },
+  {
+    "id": 10,
+    "contract_id": 1,
+    "mes": "OCT",
+    "anio": "24",
+    "mes_num": 10,
+    "anio_completo": 2024,
+    "kwh": 85.65,
+    "eur": 24.93
+  },
+  {
+    "id": 11,
+    "contract_id": 1,
+    "mes": "NOV",
+    "anio": "24",
+    "mes_num": 11,
+    "anio_completo": 2024,
+    "kwh": 108.54,
+    "eur": 28.89
+  },
+  {
+    "id": 12,
+    "contract_id": 1,
+    "mes": "DIC",
+    "anio": "24",
+    "mes_num": 12,
+    "anio_completo": 2024,
+    "kwh": 118.35,
+    "eur": 28.57
+  },
+  {
+    "id": 13,
+    "contract_id": 1,
+    "mes": "ENE",
+    "anio": "25",
+    "mes_num": 1,
+    "anio_completo": 2025,
+    "kwh": 109.07,
+    "eur": 29.9
+  },
+  {
+    "id": 14,
+    "contract_id": 1,
+    "mes": "FEB",
+    "anio": "25",
+    "mes_num": 2,
+    "anio_completo": 2025,
+    "kwh": 97.19,
+    "eur": 23.86
+  },
+  {
+    "id": 15,
+    "contract_id": 1,
+    "mes": "MAR",
+    "anio": "25",
+    "mes_num": 3,
+    "anio_completo": 2025,
+    "kwh": 82.97,
+    "eur": 18.95
+  },
+  {
+    "id": 16,
+    "contract_id": 1,
+    "mes": "ABR",
+    "anio": "25",
+    "mes_num": 4,
+    "anio_completo": 2025,
+    "kwh": 77.25,
+    "eur": 17.99
+  },
+  {
+    "id": 17,
+    "contract_id": 1,
+    "mes": "MAY",
+    "anio": "25",
+    "mes_num": 5,
+    "anio_completo": 2025,
+    "kwh": 81.09,
+    "eur": 20.41
+  },
+  {
+    "id": 18,
+    "contract_id": 1,
+    "mes": "JUN",
+    "anio": "25",
+    "mes_num": 6,
+    "anio_completo": 2025,
+    "kwh": 65.03,
+    "eur": 19.78
+  },
+  {
+    "id": 19,
+    "contract_id": 1,
+    "mes": "JUL",
+    "anio": "25",
+    "mes_num": 7,
+    "anio_completo": 2025,
+    "kwh": 81.39,
+    "eur": 20.66
+  },
+  {
+    "id": 20,
+    "contract_id": 1,
+    "mes": "AGO",
+    "anio": "25",
+    "mes_num": 8,
+    "anio_completo": 2025,
+    "kwh": 89.17,
+    "eur": 20.93
+  },
+  {
+    "id": 21,
+    "contract_id": 1,
+    "mes": "SEP",
+    "anio": "25",
+    "mes_num": 9,
+    "anio_completo": 2025,
+    "kwh": 101.25,
+    "eur": 26.89
+  },
+  {
+    "id": 22,
+    "contract_id": 1,
+    "mes": "OCT",
+    "anio": "25",
+    "mes_num": 10,
+    "anio_completo": 2025,
+    "kwh": 99.76,
+    "eur": 28.89
+  },
+  {
+    "id": 23,
+    "contract_id": 1,
+    "mes": "NOV",
+    "anio": "25",
+    "mes_num": 11,
+    "anio_completo": 2025,
+    "kwh": 94.66,
+    "eur": 20.85
+  },
+  {
+    "id": 24,
+    "contract_id": 1,
+    "mes": "DIC",
+    "anio": "25",
+    "mes_num": 12,
+    "anio_completo": 2025,
+    "kwh": 101.43,
+    "eur": 26.25
+  },
+  {
+    "id": 25,
+    "contract_id": 1,
+    "mes": "ENE",
+    "anio": "26",
+    "mes_num": 1,
+    "anio_completo": 2026,
+    "kwh": 110.2,
+    "eur": 27.09
+  },
+  {
+    "id": 26,
+    "contract_id": 1,
+    "mes": "FEB",
+    "anio": "26",
+    "mes_num": 2,
+    "anio_completo": 2026,
+    "kwh": 92.83,
+    "eur": 26.17
+  },
+  {
+    "id": 27,
+    "contract_id": 1,
+    "mes": "MAR",
+    "anio": "26",
+    "mes_num": 3,
+    "anio_completo": 2026,
+    "kwh": 83.86,
+    "eur": 21.3
+  },
+  {
+    "id": 28,
+    "contract_id": 1,
+    "mes": "ABR",
+    "anio": "26",
+    "mes_num": 4,
+    "anio_completo": 2026,
+    "kwh": 77.97,
+    "eur": 23.48
+  },
+  {
+    "id": 29,
+    "contract_id": 1,
+    "mes": "MAY",
+    "anio": "26",
+    "mes_num": 5,
+    "anio_completo": 2026,
+    "kwh": 75.42,
+    "eur": 21.8
+  },
+  {
+    "id": 30,
+    "contract_id": 1,
+    "mes": "JUN",
+    "anio": "26",
+    "mes_num": 6,
+    "anio_completo": 2026,
+    "kwh": 72.23,
+    "eur": 15.91
+  },
+  {
+    "id": 1,
+    "contract_id": 2,
+    "mes": "NOV",
+    "anio": "24",
+    "mes_num": 11,
+    "anio_completo": 2024,
+    "kwh": 140.8,
+    "eur": 32.58
+  },
+  {
+    "id": 2,
+    "contract_id": 2,
+    "mes": "DIC",
+    "anio": "24",
+    "mes_num": 12,
+    "anio_completo": 2024,
+    "kwh": 142.73,
+    "eur": 26.03
+  },
+  {
+    "id": 3,
+    "contract_id": 2,
+    "mes": "ENE",
+    "anio": "25",
+    "mes_num": 1,
+    "anio_completo": 2025,
+    "kwh": 122.97,
+    "eur": 32.69
+  },
+  {
+    "id": 4,
+    "contract_id": 2,
+    "mes": "FEB",
+    "anio": "25",
+    "mes_num": 2,
+    "anio_completo": 2025,
+    "kwh": 134.96,
+    "eur": 26.03
+  },
+  {
+    "id": 5,
+    "contract_id": 2,
+    "mes": "MAR",
+    "anio": "25",
+    "mes_num": 3,
+    "anio_completo": 2025,
+    "kwh": 128.57,
+    "eur": 30.02
+  },
+  {
+    "id": 6,
+    "contract_id": 2,
+    "mes": "ABR",
+    "anio": "25",
+    "mes_num": 4,
+    "anio_completo": 2025,
+    "kwh": 111.66,
+    "eur": 24.02
+  },
+  {
+    "id": 7,
+    "contract_id": 2,
+    "mes": "MAY",
+    "anio": "25",
+    "mes_num": 5,
+    "anio_completo": 2025,
+    "kwh": 110.88,
+    "eur": 22.86
+  },
+  {
+    "id": 8,
+    "contract_id": 2,
+    "mes": "JUN",
+    "anio": "25",
+    "mes_num": 6,
+    "anio_completo": 2025,
+    "kwh": 98.2,
+    "eur": 23.65
+  },
+  {
+    "id": 9,
+    "contract_id": 2,
+    "mes": "JUL",
+    "anio": "25",
+    "mes_num": 7,
+    "anio_completo": 2025,
+    "kwh": 102.66,
+    "eur": 22.4
+  },
+  {
+    "id": 10,
+    "contract_id": 2,
+    "mes": "AGO",
+    "anio": "25",
+    "mes_num": 8,
+    "anio_completo": 2025,
+    "kwh": 117.52,
+    "eur": 23.61
+  },
+  {
+    "id": 21,
+    "contract_id": 2,
+    "mes": "SEP",
+    "anio": "25",
+    "mes_num": 9,
+    "anio_completo": 2025,
+    "kwh": 131.38,
+    "eur": 30.02
+  },
+  {
+    "id": 12,
+    "contract_id": 2,
+    "mes": "OCT",
+    "anio": "25",
+    "mes_num": 10,
+    "anio_completo": 2025,
+    "kwh": 127.42,
+    "eur": 24.17
+  },
+  {
+    "id": 13,
+    "contract_id": 2,
+    "mes": "NOV",
+    "anio": "25",
+    "mes_num": 11,
+    "anio_completo": 2025,
+    "kwh": 130.61,
+    "eur": 28.35
+  },
+  {
+    "id": 14,
+    "contract_id": 2,
+    "mes": "DIC",
+    "anio": "25",
+    "mes_num": 12,
+    "anio_completo": 2025,
+    "kwh": 135.29,
+    "eur": 27.03
+  },
+  {
+    "id": 15,
+    "contract_id": 2,
+    "mes": "ENE",
+    "anio": "26",
+    "mes_num": 1,
+    "anio_completo": 2026,
+    "kwh": 127.99,
+    "eur": 33.45
+  },
+  {
+    "id": 16,
+    "contract_id": 2,
+    "mes": "FEB",
+    "anio": "26",
+    "mes_num": 2,
+    "anio_completo": 2026,
+    "kwh": 116.7,
+    "eur": 25.52
+  },
+  {
+    "id": 17,
+    "contract_id": 2,
+    "mes": "MAR",
+    "anio": "26",
+    "mes_num": 3,
+    "anio_completo": 2026,
+    "kwh": 112.64,
+    "eur": 25.46
+  },
+  {
+    "id": 18,
+    "contract_id": 2,
+    "mes": "ABR",
+    "anio": "26",
+    "mes_num": 4,
+    "anio_completo": 2026,
+    "kwh": 113.71,
+    "eur": 27.21
+  },
+  {
+    "id": 19,
+    "contract_id": 2,
+    "mes": "MAY",
+    "anio": "26",
+    "mes_num": 5,
+    "anio_completo": 2026,
+    "kwh": 111.88,
+    "eur": 21.54
+  },
+  {
+    "id": 20,
+    "contract_id": 2,
+    "mes": "JUN",
+    "anio": "26",
+    "mes_num": 6,
+    "anio_completo": 2026,
+    "kwh": 95.35,
+    "eur": 22.06
+  }
+]
