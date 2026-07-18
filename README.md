@@ -15,7 +15,7 @@ enviarnos tu solución.
 para una presentación breve (15-20 min) donde nos enseñes tu solución
 en directo y nos cuentes las decisiones que tomaste.
 
-## Contexto
+## Contexto 
 
 Vas a construir una parte del Área Cliente de una comercializadora eléctrica:
 la vista donde el cliente ve su historial de facturación, y puede cambiar entre
